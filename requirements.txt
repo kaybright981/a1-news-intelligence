@@ -1,2 +1,6 @@
 fastapi
 uvicorn[standard]
+feedparser
+httpx
+beautifulsoup4
+apscheduler
