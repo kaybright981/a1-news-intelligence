@@ -1,0 +1,180 @@
+name,code,level,category,url,alert_priority,verification_weight,scope,status,notes
+State House / Presidency,SH,A1,Presidency,https://statehouse.gov.ng/,Critical,100,Nigeria,verified,
+Office of the National Security Adviser,ONSA,A1,National security,https://onsa.gov.ng/,Critical,100,Nigeria,verified,
+Department of State Services,DSS,A1,Intelligence / internal security,https://www.dss.gov.ng/,Critical,100,Nigeria,verified,
+Ministry of Defence,MOD,A1,Defence policy,https://defence.gov.ng/,Critical,100,Nigeria,verified,
+Nigerian Army,NA,A1,Military / land operations,https://army.mil.ng/,Critical,100,Nigeria,verified,
+Nigerian Navy,NN,A1,Maritime security,https://navy.mil.ng/,Critical,100,Nigeria,verified,
+Nigerian Air Force,NAF,A1,Air operations,https://airforce.mil.ng/,Critical,100,Nigeria,verified,
+Nigeria Police Force,NPF,A1,Police / crime,https://police.gov.ng/,Critical,100,Nigeria,verified,
+Nigeria Security & Civil Defence Corps,NSCDC,A1,Civil defence,https://nscdc.gov.ng/,High,100,Nigeria,verified,
+NIMASA,NIMASA,A1,Maritime safety/security,https://nimasa.gov.ng/,Critical,100,Nigeria,verified,
+NEMA,NEMA,A1,Disaster / emergency,https://nema.gov.ng/,High,100,Nigeria,verified,
+NDLEA,NDLEA,A1,Drugs / trafficking,https://ndlea.gov.ng/,High,100,Nigeria,verified,
+EFCC,EFCC,A1,Financial crime,https://www.efcc.gov.ng/,High,100,Nigeria,verified,
+INEC,INEC,A1,Elections,https://www.inecnigeria.org/,Critical,100,Nigeria,verified,
+Nigeria Immigration Service,NIS,A1,Borders / immigration,https://immigration.gov.ng/,High,100,Nigeria,verified,
+Nigeria Customs Service,NCS,A1,Borders / seizures,https://customs.gov.ng/,High,100,Nigeria,verified,
+Federal Fire Service,FFS,A1,Fire / emergencies,https://fedfire.gov.ng/,High,100,Nigeria,verified,
+National Bureau of Statistics,NBS,A1,Official statistics,https://nigerianstat.gov.ng/,Medium,100,Nigeria,verified,
+National Communications Commission,NCC,A1,Telecom / digital regulation,https://www.ncc.gov.ng/,High,100,Nigeria,verified,
+Federal Road Safety Corps,FRSC,A1,Road safety / crashes,https://frsc.gov.ng/,High,100,Nigeria,verified,
+Nigeria Civil Aviation Authority,NCAA,A1,Aviation safety,https://ncaa.gov.ng/,High,100,Nigeria,verified,
+Federal Airports Authority of Nigeria,FAAN,A1,Airports / aviation,https://faan.gov.ng/,High,100,Nigeria,verified,
+Nigeria Maritime Administration & Safety Agency,NIMASA2,A1,Maritime,https://nimasa.gov.ng/,Critical,100,Nigeria,verified,
+Nigerian Ports Authority,NPA,A1,Ports / shipping,https://nigerianports.gov.ng/,High,100,Nigeria,verified,
+Nigerian Meteorological Agency,NiMet,A1,Weather,https://nimet.gov.ng/,High,100,Nigeria,verified,
+Ministry of Foreign Affairs,MFA,A1,Diplomacy / foreign affairs,https://foreignaffairs.gov.ng/,Critical,100,Nigeria,verified,
+Ministry of Interior,MOI,A1,Internal security,https://interior.gov.ng/,High,100,Nigeria,verified,
+Ministry of Information & National Orientation,MINO,A1,Government communications,https://fmino.gov.ng/,High,100,Nigeria,verified,
+Ministry of Marine & Blue Economy,MMBE,A1,Maritime / blue economy,https://fmmbe.gov.ng/,High,100,Nigeria,verified,
+Ministry of Health & Social Welfare,MOH,A1,Public health emergencies,https://www.health.gov.ng/,High,100,Nigeria,verified,
+Ministry of Environment,MOE,A1,Environment / hazards,https://environment.gov.ng/,High,100,Nigeria,verified,
+Ministry of Works,MOW,A1,Infrastructure / roads,https://fmw.gov.ng/,Medium,100,Nigeria,verified,
+Ministry of Power,MOP,A1,Power / energy,https://power.gov.ng/,High,100,Nigeria,verified,
+Ministry of Petroleum Resources,MPR,A1,Oil & gas,https://petroleumresources.gov.ng/,Critical,100,Nigeria,verified,
+Ministry of Agriculture & Food Security,MAFS,A1,Food / agriculture,https://agriculture.gov.ng/,High,100,Nigeria,verified,
+National Drug Law Enforcement Agency,NDLEA2,A1,Drug enforcement,https://ndlea.gov.ng/,High,100,Nigeria,verified,
+Abia State Government,GOV-ABI,A1,State government,https://abiastate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Abia State Office,INEC-ABI,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Adamawa State Government,GOV-ADA,A1,State government,https://adamawastate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Adamawa State Office,INEC-ADA,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Akwa Ibom State Government,GOV-AKW,A1,State government,https://akwaibomstate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Akwa Ibom State Office,INEC-AKW,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Anambra State Government,GOV-ANA,A1,State government,https://anambrastate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Anambra State Office,INEC-ANA,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Bauchi State Government,GOV-BAU,A1,State government,https://bauchistate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Bauchi State Office,INEC-BAU,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Bayelsa State Government,GOV-BAY,A1,State government,https://bayelsastate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Bayelsa State Office,INEC-BAY,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Benue State Government,GOV-BEN,A1,State government,https://benue.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Benue State Office,INEC-BEN,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Borno State Government,GOV-BOR,A1,State government,https://bornostate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Borno State Office,INEC-BOR,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Cross River State Government,GOV-CRO,A1,State government,https://crossriverstate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Cross River State Office,INEC-CRO,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Delta State Government,GOV-DEL,A1,State government,https://deltastate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Delta State Office,INEC-DEL,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Ebonyi State Government,GOV-EBO,A1,State government,https://ebonyistate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Ebonyi State Office,INEC-EBO,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Edo State Government,GOV-EDO,A1,State government,https://edostate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Edo State Office,INEC-EDO,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Ekiti State Government,GOV-EKI,A1,State government,https://ekitistate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Ekiti State Office,INEC-EKI,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Enugu State Government,GOV-ENU,A1,State government,https://enugustate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Enugu State Office,INEC-ENU,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Gombe State Government,GOV-GOM,A1,State government,https://gombestate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Gombe State Office,INEC-GOM,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Imo State Government,GOV-IMO,A1,State government,https://imostate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Imo State Office,INEC-IMO,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Jigawa State Government,GOV-JIG,A1,State government,https://jigawastate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Jigawa State Office,INEC-JIG,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Kaduna State Government,GOV-KAD,A1,State government,https://kdsg.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Kaduna State Office,INEC-KAD,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Kano State Government,GOV-KAN,A1,State government,https://kanostate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Kano State Office,INEC-KAN,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Katsina State Government,GOV-KAT,A1,State government,https://katsinastate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Katsina State Office,INEC-KAT,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Kebbi State Government,GOV-KEB,A1,State government,https://kebbistate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Kebbi State Office,INEC-KEB,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Kogi State Government,GOV-KOG,A1,State government,https://kogistate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Kogi State Office,INEC-KOG,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Kwara State Government,GOV-KWA,A1,State government,https://kwarastate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Kwara State Office,INEC-KWA,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Lagos State Government,GOV-LAG,A1,State government,https://lagosstate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Lagos State Office,INEC-LAG,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Nasarawa State Government,GOV-NAS,A1,State government,https://nasarawastate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Nasarawa State Office,INEC-NAS,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Niger State Government,GOV-NIG,A1,State government,https://nigerstate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Niger State Office,INEC-NIG,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Ogun State Government,GOV-OGU,A1,State government,https://ogunstate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Ogun State Office,INEC-OGU,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Ondo State Government,GOV-OND,A1,State government,https://ondostate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Ondo State Office,INEC-OND,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Osun State Government,GOV-OSU,A1,State government,https://osun.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Osun State Office,INEC-OSU,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Oyo State Government,GOV-OYO,A1,State government,https://oyostate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Oyo State Office,INEC-OYO,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Plateau State Government,GOV-PLA,A1,State government,https://plateaustate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Plateau State Office,INEC-PLA,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Rivers State Government,GOV-RIV,A1,State government,https://riversstate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Rivers State Office,INEC-RIV,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Sokoto State Government,GOV-SOK,A1,State government,https://sokotostate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Sokoto State Office,INEC-SOK,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Taraba State Government,GOV-TAR,A1,State government,https://tarabastate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Taraba State Office,INEC-TAR,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Yobe State Government,GOV-YOB,A1,State government,https://yobestate.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Yobe State Office,INEC-YOB,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Zamfara State Government,GOV-ZAM,A1,State government,https://zamfara.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC Zamfara State Office,INEC-ZAM,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+FCT State Government,GOV-FCT,A1,State government,https://fcta.gov.ng/,High,95,Nigeria,verified,Official portal candidate; URL should be live-validated before production.
+INEC FCT State Office,INEC-FCT,A1,Election / state affairs,https://www.inecnigeria.org/about/state-offices,High,100,Nigeria,verified,INEC central directory lists 37 state/FCT offices.
+Nigeria Governors' Forum,NGF,A1,State governors / policy,https://www.ngf.org.ng/,High,95,Nigeria,verified,
+Federal Character Commission,FCC,A1,State/federal public affairs,https://fcc.gov.ng/,Medium,95,Nigeria,verified,
+National Social Safety Nets Coordinating Office,NASSCO,A1,State social policy,https://nassp.gov.ng/,Medium,95,Nigeria,verified,
+News Agency of Nigeria,NAN,A2,Rapid news/media,https://nannews.ng/,High,90,Global,verified,
+Reuters,RTR,A2,Rapid news/media,https://www.reuters.com/,Immediate,90,Global,verified,
+Channels Television,CH,A2,Rapid news/media,https://www.channelstv.com/,Immediate,90,Nigeria,verified,
+Premium Times,PT,A2,Rapid news/media,https://www.premiumtimesng.com/,High,90,Nigeria,verified,
+TheCable,TC,A2,Rapid news/media,https://www.thecable.ng/,High,90,Nigeria,verified,
+Punch,PUNCH,A2,Rapid news/media,https://punchng.com/,High,90,Nigeria,verified,
+Daily Trust,DT,A2,Rapid news/media,https://dailytrust.com/,High,90,Nigeria,verified,
+Vanguard,VG,A2,Rapid news/media,https://www.vanguardngr.com/,High,90,Nigeria,verified,
+The Guardian Nigeria,GN,A2,Rapid news/media,https://guardian.ng/,High,90,Nigeria,verified,
+THISDAY,TD,A2,Rapid news/media,https://www.thisdaylive.com/,High,90,Nigeria,verified,
+Arise News,ARISE,A2,Rapid news/media,https://www.arise.tv/,High,90,Nigeria,verified,
+BusinessDay,BD,A2,Rapid news/media,https://businessday.ng/,High,90,Nigeria,verified,
+Leadership,LEAD,A2,Rapid news/media,https://leadership.ng/,High,90,Nigeria,verified,
+Daily Post,DP,A2,Rapid news/media,https://dailypost.ng/,High,90,Nigeria,verified,
+Tribune,TRIB,A2,Rapid news/media,https://tribuneonlineng.com/,High,90,Nigeria,verified,
+The Nation,NATION,A2,Rapid news/media,https://thenationonlineng.net/,High,90,Nigeria,verified,
+Channels24,C24,A2,Rapid news/media,https://www.channelstv.com/,High,90,Nigeria,verified,
+BBC News,BBC,A2,Rapid news/media,https://www.bbc.com/news,High,90,Global,verified,
+Al Jazeera,AJ,A2,Rapid news/media,https://www.aljazeera.com/,High,90,Global,verified,
+Associated Press,AP,A2,Rapid news/media,https://apnews.com/,Immediate,90,Global,verified,
+AFP,AFP,A2,Rapid news/media,https://www.afp.com/,Immediate,90,Global,verified,
+CNN,CNN,A2,Rapid news/media,https://www.cnn.com/,High,90,Global,verified,
+Bloomberg,BLOOM,A2,Rapid news/media,https://www.bloomberg.com/,High,90,Global,verified,
+DW,DW,A2,Rapid news/media,https://www.dw.com/,High,90,Global,verified,
+France 24,F24,A2,Rapid news/media,https://www.france24.com/,High,90,Global,verified,
+African Union,AU,A1,Africa / diplomacy / security,https://au.int/,Critical,100,Global,verified,
+AU Peace and Security Council,AUPSC,A1,Africa / conflict / security,https://www.peaceau.org/,Critical,100,Global,verified,
+ECOWAS,ECOWAS,A1,West Africa / security / politics,https://www.ecowas.int/,Critical,100,Global,verified,
+ECOWAS Commission - Peace & Security,ECOWAS-PPS,A1,West Africa / peace & security,https://www.ecowas.int/,Critical,100,Global,verified,
+UN,UN,A1,Global affairs,https://www.un.org/,High,100,Global,verified,
+UN Security Council,UNSC,A1,International security,https://www.un.org/securitycouncil/,Critical,100,Global,verified,
+UN News,UNNEWS,A1,Global news,https://news.un.org/,High,100,Global,verified,
+UNOWAS,UNOWAS,A1,West Africa / Sahel,https://unowas.unmissions.org/,High,100,Global,verified,
+INTERPOL,INTERPOL,A1,International crime,https://www.interpol.int/,High,100,Global,verified,
+International Maritime Organization,IMO,A1,Maritime,https://www.imo.org/,Critical,100,Global,verified,
+NATO,NATO,A1,Military / security,https://www.nato.int/,Critical,100,Global,verified,
+U.S. Department of State,US-DOS,A1,Diplomacy,https://www.state.gov/,Critical,100,Global,verified,
+U.S. Department of Defense,US-DOD,A1,Defence,https://www.defense.gov/,High,100,Global,verified,
+"UK Foreign, Commonwealth & Development Office",FCDO,A1,Diplomacy,https://www.gov.uk/government/organisations/foreign-commonwealth-development-office,Critical,100,Global,verified,
+UK Ministry of Defence,UK-MOD,A1,Defence,https://www.gov.uk/government/organisations/ministry-of-defence,High,100,Global,verified,
+European External Action Service,EEAS,A1,Diplomacy,https://www.eeas.europa.eu/,Critical,100,Global,verified,
+European Union,EU,A1,EU affairs,https://european-union.europa.eu/,High,100,Global,verified,
+Africa CDC,ACDC,A1,Health emergencies,https://africacdc.org/,High,100,Global,verified,
+WHO,WHO,A1,Global health emergencies,https://www.who.int/,High,100,Global,verified,
+IAEA,IAEA,A1,Nuclear / radiological,https://www.iaea.org/,High,100,Global,verified,
+UNHCR,UNHCR,A1,Displacement / humanitarian,https://www.unhcr.org/,High,100,Global,verified,
+IOM,IOM,A1,Migration,https://www.iom.int/,High,100,Global,verified,
+OCHA,OCHA,A1,Humanitarian emergencies,https://www.unocha.org/,High,100,Global,verified,
+WFP,WFP,A1,Food emergencies,https://www.wfp.org/,High,100,Global,verified,
+World Bank,WB,A1,Economic development,https://www.worldbank.org/,High,100,Global,verified,
+IMF,IMF,A1,Economy / finance,https://www.imf.org/,High,100,Global,verified,
+International Criminal Court,ICC,A1,International justice,https://www.icc-cpi.int/,High,100,Global,verified,
+INTERPOL News,INTERPOL-NEWS,A1,Crime / security,https://www.interpol.int/News-and-Events/News,Critical,100,Global,verified,
+U.S. Africa Command,AFRICOM,A1,Africa security,https://www.africom.mil/,Critical,100,Global,verified,
+U.S. Navy,USN,A1,Maritime security,https://www.navy.mil/,Critical,100,Global,verified,
+U.S. Army,USA,A1,Military,https://www.army.mil/,Critical,100,Global,verified,
+U.S. Air Force,USAF,A1,Military aviation,https://www.af.mil/,Critical,100,Global,verified,
+U.S. Coast Guard,USCG,A1,Maritime security,https://www.uscg.mil/,Critical,100,Global,verified,
+UK Hydrographic Office,UKHO,A1,Maritime navigation,https://www.admiralty.co.uk/,Critical,100,Global,verified,
+UK Maritime Trade Operations,UKMTO,A1,Maritime security,https://www.gov.uk/government/groups/uk-maritime-trade-operations,Critical,100,Global,verified,
+European Maritime Safety Agency,EMSA,A1,Maritime safety,https://www.emsa.europa.eu/,Critical,100,Global,verified,
+Frontex,FRONTEX,A1,Borders / migration,https://www.frontex.europa.eu/,High,100,Global,verified,
+Europol,EUROPOL,A1,Crime / security,https://www.europol.europa.eu/,Critical,100,Global,verified,
+International Civil Aviation Organization,ICAO,A1,Aviation,https://www.icao.int/,High,100,Global,verified,
+International Energy Agency,IEA,A1,Energy,https://www.iea.org/,High,100,Global,verified,
+OPEC,OPEC,A1,Oil / energy,https://www.opec.org/,High,100,Global,verified,

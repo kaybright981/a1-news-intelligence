@@ -1,0 +1,33 @@
+{
+  "project": "A1 News Intelligence",
+  "purpose": "Fast, reliable monitoring with Nigeria/security priority",
+  "source_count": 179,
+  "rules": {
+    "A1_primary": 100,
+    "A2_reputable_media": 90,
+    "unverified_social": 20,
+    "critical_alert_threshold": 90,
+    "confirmation_rule": "Prefer official primary confirmation; otherwise require two independent reputable sources for high-impact claims.",
+    "never_auto_confirm_social_media": true
+  },
+  "whatsapp": {
+    "provider": "WhatsApp Business Cloud API or approved provider",
+    "mode": "outbound alerts + daily brief"
+  },
+  "categories": [
+    "Nigeria Security",
+    "Politics",
+    "Maritime",
+    "Defence",
+    "Terrorism",
+    "Crime",
+    "Diplomacy",
+    "Disaster",
+    "Economy",
+    "Energy",
+    "Health",
+    "Elections",
+    "International Security"
+  ],
+  "state_coverage": "36 states + FCT"
+}
